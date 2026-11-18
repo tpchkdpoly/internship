@@ -12,7 +12,7 @@ const PORTAL_CONFIG = {
   instituteName: "Hailakandi Polytechnic",
   googleFormURL: "YOUR_GOOGLE_FORM_URL",                 // e.g. https://forms.gle/xxxxxxxx
   statusTrackerURL: "YOUR_GOOGLE_SHEET_PUBLISHED_URL",   // read-only "Publish to web" link
-  contactEmail: "YOUR_OFFICIAL_EMAIL",                   // e.g. tpo@institute.ac.in
+  contactEmail: "tpohkdpoly@gmail.com",                   // e.g. tpo@institute.ac.in
   academicSession: "2026-2027"
 };
 
