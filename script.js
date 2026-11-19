@@ -11,7 +11,7 @@
 const PORTAL_CONFIG = {
   instituteName: "Hailakandi Polytechnic",
   googleFormURL: "https://docs.google.com/forms/d/e/1FAIpQLSeEfbEyueF7Y8NQzuj-hBZPzfnhtbc5whECSl67Z-k8w_tDDQ/viewform?usp=dialog",                 // e.g. https://forms.gle/xxxxxxxx
-  statusTrackerURL: "YOUR_GOOGLE_SHEET_PUBLISHED_URL",   // read-only "Publish to web" link
+  statusTrackerURL: "https://docs.google.com/spreadsheets/d/1U8AGyfILh10Iws_b7zn7mobNn-EEvdIg/edit?usp=sharing&ouid=100944956101147237890&rtpof=true&sd=true",   // read-only "Publish to web" link
   contactEmail: "tpohkdpoly@gmail.com",                   // e.g. tpo@institute.ac.in
   academicSession: "2026-2027"
 };
